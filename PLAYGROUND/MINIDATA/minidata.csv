@@ -1,0 +1,17 @@
+ข้อมูล,เพศ,อายุ,Dx,ผ่าตัด,สาเหตุ,ตำแหน่ง,จำนวน,Admit,Duration,ยา,การพยาบาล,ความถี่อุจจาระ
+ICU1,ชาย,76,OPLL with incomplete cord injury C2-C7,ใช่,trauma,C,5,29/3/65,7,Senokot,,ทุกวัน
+ICU2,ชาย,43,C4-C5 subluxation with complete cord injury with autistic disorder,ใช่,trauma,C,4,24/3/65,12,,,ทุก 3 วัน
+ICU3,ชาย,73,OPLL C2-C5 with fracture C6 with incomplete cord with diaphragm paralysis,ใช่,trauma,C,5,24/2/65,41,,,ทุกวัน
+6,ชาย,48,Cauda equina syndrome,ใช่,Non,L,3,30/3/65,6,Unison,"Evac
+สอนนวดหน้าท้อง",
+7,ชาย,66,Spinal metastasis C5-C6 c CA lung With DM with HT With DLP,ใช่,Non,C,2,17/3/65,19,,,
+9,ชาย,59,Basilar invagination with cord compression,ไม่ใช่,Non,,,2/2/65,61,,Evac,
+10,หญิง,68,Spondylodiscitis L1-2 S/P OLIF L2-5,ไม่ใช่,non,L,5,22/3/65,14,"Senokot
+ยาเหน็บ",,
+12,หญิง,65,AS c fracture C7 c spinal injury c DM c HT,ใช่,trauma,C,1,11/3/65,25,"Senokot
+ยาเหน็บ","สอนนวดหน้าท้อง
+Evac",
+13,ชาย,69,Spinal metastasis T3-4 c incomplete cord compression,ใช่,non,T,2,6/3/65,30,"Senokot
+ยาเหน็บ",Evac,
+1203,หญิง,88,Mild head injury,ใช่,trauma,,,10/11/64,146,,,
+1204,ชาย,54,Spondylodiscitis L5 c R/O pulmonary TB,ไม่ใช่,non,L,1,4/4/65,1,,,
